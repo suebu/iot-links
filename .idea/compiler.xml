@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iot-common-seata" />
+        <module name="iot-websocket" />
+        <module name="iot-mp-platform" />
+        <module name="iot-common-swagger" />
+        <module name="iot-gateway" />
+        <module name="iot-nacos" />
+        <module name="iot-common-sentinel" />
+        <module name="iot-elasticjob" />
+        <module name="iot-common-core" />
+        <module name="iot-common-gateway" />
+      </profile>
+      <profile name="Annotation profile for iot-links" enabled="true">
+        <sourceOutputDir name="../../iot-common-feign/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../iot-common-feign/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iot-common-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="iot-common" target="1.8" />
+      <module name="iot-common-bom" target="1.8" />
+      <module name="iot-common-core" target="1.8" />
+      <module name="iot-common-feign" target="1.8" />
+      <module name="iot-common-gateway" target="1.8" />
+      <module name="iot-common-seata" target="1.8" />
+      <module name="iot-common-sentinel" target="1.8" />
+      <module name="iot-common-swagger" target="1.8" />
+      <module name="iot-elasticjob" target="1.8" />
+      <module name="iot-gateway" target="1.8" />
+      <module name="iot-links" target="1.8" />
+      <module name="iot-mp-platform" target="1.8" />
+      <module name="iot-nacos" target="1.8" />
+      <module name="iot-visual" target="1.8" />
+      <module name="iot-websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

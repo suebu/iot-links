@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common.iml" filepath="$PROJECT_DIR$/iot-common/iot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-bom/iot-common-bom.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-bom/iot-common-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-core/iot-common-core.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-core/iot-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-feign/iot-common-feign.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-feign/iot-common-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-gateway/iot-common-gateway.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-gateway/iot-common-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-seata/iot-common-seata.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-seata/iot-common-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-sentinel/iot-common-sentinel.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-sentinel/iot-common-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-common-swagger/iot-common-swagger.iml" filepath="$PROJECT_DIR$/iot-common/iot-common-swagger/iot-common-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-visual/iot-elasticjob/iot-elasticjob.iml" filepath="$PROJECT_DIR$/iot-visual/iot-elasticjob/iot-elasticjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-gateway/iot-gateway.iml" filepath="$PROJECT_DIR$/iot-gateway/iot-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-links.iml" filepath="$PROJECT_DIR$/iot-links.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-visual/iot-mp-platform/iot-mp-platform.iml" filepath="$PROJECT_DIR$/iot-visual/iot-mp-platform/iot-mp-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-nacos/iot-nacos.iml" filepath="$PROJECT_DIR$/iot-nacos/iot-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-visual/iot-visual.iml" filepath="$PROJECT_DIR$/iot-visual/iot-visual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-common/iot-websocket/iot-websocket.iml" filepath="$PROJECT_DIR$/iot-common/iot-websocket/iot-websocket.iml" />
+    </modules>
+  </component>
+</project>

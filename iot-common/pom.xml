@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<artifactId>iot-links</artifactId>
+		<groupId>com.sue</groupId>
+		<version>4.3.0</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>iot-common</artifactId>
+	<packaging>pom</packaging>
+	<description>iot-links 公共聚合模块</description>
+
+	<modules>
+		<module>iot-common-bom</module>
+		<module>iot-common-gateway</module>
+		<module>iot-common-swagger</module>
+		<module>iot-common-sentinel</module>
+		<module>iot-common-core</module>
+		<module>iot-common-seata</module>
+		<module>iot-websocket</module>
+	</modules>
+</project>
